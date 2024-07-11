@@ -1,0 +1,8 @@
+Class HelloTrupti
+{
+	Public static void main (string []);
+
+	{
+		system.out.println("Hello Trupti");
+	}
+}
